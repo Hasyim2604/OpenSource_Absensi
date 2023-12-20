@@ -22,7 +22,7 @@ require 'fungsi/proses_log.php';
 <body>
 <form action="" autocomplete="off" method="POST">
   <div class="wrap">
-  	<h1 class="login_adm">Login Admin</h1>
+  	<h1 class="login_adm">LOGIN ADMIN</h1>
 	  <br><center><p>Repost by <a href='https://stokcoding.com/' title='StokCoding.com' target='_blank'>StokCoding.com</a></p></center>
 
 		<div class="avatar">
