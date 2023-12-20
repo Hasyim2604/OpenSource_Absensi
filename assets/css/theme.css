@@ -115,13 +115,13 @@ h4,
 h5,
 h6 {
     color: #333333;
-    font-weight: 700;
+    font-weight: 600;
     margin: 0;
     line-height: 1.2;
 }
 
 h1 {
-    font-size: 36px;
+    font-size: 34px;
 }
 
 h2 {
@@ -149,7 +149,7 @@ blockquote {
 }
 
 strong {
-    font-weight: 700;
+    font-weight: 600;
 }
 
 /*-----------------------------------------------------*/
