@@ -145,7 +145,7 @@
 
 							 ?>
 
-   	 <input type="checkbox" name="ubahfoto" value="true">Klik jika ingin ubah foto <br>
+   	 <input type="checkbox" name="ubahfoto" value="true"> Ubah foto <br>
   </div>
 
       <div class="form-group">
