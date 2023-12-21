@@ -80,8 +80,8 @@ if (isset($_POST['simpan_ket'])) {
 			</table>
 		</div><br>
 		<div class="mt-10">
-			<button class="btn btn-warning" data-toggle="modal" data-target="#exampleModal">Klik tombol ini jika tidak hadir / absen</button>
-			<!-- Modal keterangan -->
+			<button class="btn btn-warning" data-toggle="modal" data-target="#exampleModal">Klik tombol jika tidak hadir / absen</button>
+			<!-- Modal keterangan --> 
 			<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
